@@ -3,4 +3,4 @@
 using number_of_letter;
 
 Display display = new Display();
-display.WelcomeScreen();
+display.welcomeScreen();

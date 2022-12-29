@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace number_of_letter
 {
-    internal class translator
+    internal class Decoder
     {
         List<string> finalList = new List<string>();
         List<string> supportList; 
